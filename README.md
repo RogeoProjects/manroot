@@ -7,8 +7,8 @@ DevOps Scripts and Documentation Repository
 Este repositório contém uma coleção de scripts e documentação para instalação e testes de ferramentas DevOps.
 
 ## Estrutura do Repositório
-- 📂 Scripts: Scripts para instalação e configuração.
-- 📂 Documentação: Instruções detalhadas de instalação e configuração das ferramentas.
+- 📂 [Scripts: Scripts para instalação e configuração.](./scripts/)
+- 📂 [Documentação: Instruções detalhadas de instalação e configuração das ferramentas.](./documentacao/)
 
 ## Como Utilizar
 - Navegue para a pasta Documentação para instruções passo a passo.
@@ -16,5 +16,5 @@ Este repositório contém uma coleção de scripts e documentação para instala
 
 ## Ferramentas Disponíveis
 - [Instalação do NGINX](./scripts/instalacao_nginx.md)
-- [Configuração do Docker](./documentcao/configuracao_docker.md)
+- [Configuração do Docker](./documentacao/configuracao_docker.md)
 
