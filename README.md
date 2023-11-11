@@ -15,6 +15,6 @@ Este repositório contém uma coleção de scripts e documentação para instala
 - Contribuições são bem-vindas através de pull requests.
 
 ## Ferramentas Disponíveis
-- [Instalação do NGINX](./Documentação/instalacao_nginx.md)
-- [Configuração do Docker](./Documentação/configuracao_docker.md)
+- [Instalação do NGINX](./scripts/instalacao_nginx.md)
+- [Configuração do Docker](./documentcao/configuracao_docker.md)
 
