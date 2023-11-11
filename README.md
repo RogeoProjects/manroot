@@ -9,17 +9,17 @@ Este repositório contém uma coleção de scripts e documentação para instala
 ## Estrutura do Repositório
 
 - 📂 [Ansible.](./Ansible/)
-## - 📂 [BitBucket.](./BitBucket/)
-## - 📂 [Docker.](./Docker/)
-## - 📂 [GitLab.](./GitLab/)
-## - 📂 [GitOps.](./GitOps/)
-## - 📂 [Jenkins.](./Jenkins/)
-## - 📂 [Kubernetes.](./Kubernetes/)
-## - 📂 [Linux.](./Linux/)
-## - 📂 [Nginx.](./Nginx/)
-## - 📂 [Odoo.](./Odoo/)
-## - 📂 [Terraform.](./Terraform/)
-## - 📂 [Vagrant.](./Vagrant/)
+- 📂 [BitBucket.](./BitBucket/)
+- 📂 [Docker.](./Docker/)
+- 📂 [GitLab.](./GitLab/)
+- 📂 [GitOps.](./GitOps/)
+- 📂 [Jenkins.](./Jenkins/)
+- 📂 [Kubernetes.](./Kubernetes/)
+- 📂 [Linux.](./Linux/)
+- 📂 [Nginx.](./Nginx/)
+- 📂 [Odoo.](./Odoo/)
+- 📂 [Terraform.](./Terraform/)
+- 📂 [Vagrant.](./Vagrant/)
 
 ## Como Utilizar
 - Navegue para a pasta Documentação para instruções passo a passo.
