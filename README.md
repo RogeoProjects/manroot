@@ -14,13 +14,11 @@ Este repositório contém uma coleção de scripts e documentação para instala
 - 📂 [Gitops.](./gitops/)
 - 📂 [Jenkins.](./jenkins/)
 - 📂 [Kubernetes.](./kubernetes/)
-- 📂 [Liunux.](./linux/)
+- 📂 [Linux.](./linux/)
 - 📂 [Nginx.](./nginx/)
+- 📂 [Odoo.](./odoo/)
 - 📂 [Terraform.](./terraform/)
 - 📂 [Vagrant.](./vagrant/)
-- 📂 [Liunux.](./linux/)
-- 📂 [Liunux.](./linux/)
-- 📂 [Liunux.](./linux/)
 
 ## Como Utilizar
 - Navegue para a pasta Documentação para instruções passo a passo.
