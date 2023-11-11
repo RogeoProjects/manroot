@@ -8,7 +8,7 @@ Este repositório contém uma coleção de scripts e documentação para instala
 
 ## Estrutura do Repositório
 
-## - 📂 [Ansible.](./Ansible/)
+- 📂 [Ansible.](./Ansible/)
 ## - 📂 [BitBucket.](./BitBucket/)
 ## - 📂 [Docker.](./Docker/)
 ## - 📂 [GitLab.](./GitLab/)
