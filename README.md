@@ -7,18 +7,23 @@ DevOps Scripts and Documentation Repository
 Este repositório contém uma coleção de scripts e documentação para instalação e testes de ferramentas DevOps.
 
 ## Estrutura do Repositório
-- 📂 [Anbsible.](./ansible/)
-- 📂 [Bitbucket.](./bitbucket/)
-- 📂 [Docker.](./docker/)
-- 📂 [GitLab.](./gitlab/)
-- 📂 [Gitops.](./gitops/)
-- 📂 [Jenkins.](./jenkins/)
-- 📂 [Kubernetes.](./kubernetes/)
-- 📂 [Linux.](./linux/)
-- 📂 [Nginx.](./nginx/)
-- 📂 [Odoo.](./odoo/)
-- 📂 [Terraform.](./terraform/)
-- 📂 [Vagrant.](./vagrant/)
+- 📂 [Monitoring.](./Monitoring/)
+- 📂 [SysOps.](./SysOps/)
+
+
+
+
+
+## - 📂 [Docker.](./docker/)
+## - 📂 [GitLab.](./gitlab/)
+## - 📂 [Gitops.](./gitops/)
+## - 📂 [Jenkins.](./jenkins/)
+## - 📂 [Kubernetes.](./kubernetes/)
+## - 📂 [Linux.](./linux/)
+## - 📂 [Nginx.](./nginx/)
+## - 📂 [Odoo.](./odoo/)
+## - 📂 [Terraform.](./terraform/)
+## - 📂 [Vagrant.](./vagrant/)
 
 ## Como Utilizar
 - Navegue para a pasta Documentação para instruções passo a passo.
