@@ -7,13 +7,9 @@ DevOps Scripts and Documentation Repository
 Este repositório contém uma coleção de scripts e documentação para instalação e testes de ferramentas DevOps.
 
 ## Estrutura do Repositório
-- 📂 [Monitoring.](./Monitoring/)
-- 📂 [SysOps.](./SysOps/)
 
-
-
-
-
+## - 📂 [Ansible.](./Ansible/)
+## - 📂 [BitBucket.](./BitBucket/)
 ## - 📂 [Docker.](./docker/)
 ## - 📂 [GitLab.](./gitlab/)
 ## - 📂 [Gitops.](./gitops/)
