@@ -10,16 +10,16 @@ Este repositório contém uma coleção de scripts e documentação para instala
 
 ## - 📂 [Ansible.](./Ansible/)
 ## - 📂 [BitBucket.](./BitBucket/)
-## - 📂 [Docker.](./docker/)
-## - 📂 [GitLab.](./gitlab/)
-## - 📂 [Gitops.](./gitops/)
-## - 📂 [Jenkins.](./jenkins/)
-## - 📂 [Kubernetes.](./kubernetes/)
-## - 📂 [Linux.](./linux/)
-## - 📂 [Nginx.](./nginx/)
-## - 📂 [Odoo.](./odoo/)
-## - 📂 [Terraform.](./terraform/)
-## - 📂 [Vagrant.](./vagrant/)
+## - 📂 [Docker.](./Docker/)
+## - 📂 [GitLab.](./GitLab/)
+## - 📂 [GitOps.](./GitOps/)
+## - 📂 [Jenkins.](./Jenkins/)
+## - 📂 [Kubernetes.](./Kubernetes/)
+## - 📂 [Linux.](./Linux/)
+## - 📂 [Nginx.](./Nginx/)
+## - 📂 [Odoo.](./Odoo/)
+## - 📂 [Terraform.](./Terraform/)
+## - 📂 [Vagrant.](./Vagrant/)
 
 ## Como Utilizar
 - Navegue para a pasta Documentação para instruções passo a passo.
